@@ -1,3 +1,3 @@
 # Values Visualizer in AR
 
-**Will be filled later :)**
+**My university mini-project**
